@@ -6,24 +6,18 @@
 
 ## Skills:
 
-Programming: Python, SQL, R, Shell Scripting, Linux, JavaScript, PeopleCode
-Databases: MySQL Server, MS Access, Oracle 11g/12c
-Analytics and Visualization tools: Tableau, Power BI, MS Excel (VLOOKUP, Pivot Tables, Macros), Jira, MS PowerPoint.
-Statistical Methods: ANOVA, Regression, T-Statistics, Hypothesis Testing
-Big Data Platforms: Hadoop, Hive, Impala, Spark, Flume, Hibernate Query Language, Map Reduce, Sqoop
-Machine Learning Algorithms: k-NN Algorithm, Linear/Logistic Regression, Decision Tree, Support Vector(SVM), Neural Networks, Random Forest, Softmax Regression, Ridge and Lasso Regression, convolutional neural networks(CNN's), recurrent neural network (RNN's), generative adversarial networks (GAN's)
-Cloud Technology: AWS (EMR (S3) for Hadoop), AWS (SageMaker, Lamda)
+#### Programming: Python, SQL, R, Shell Scripting, Linux, JavaScript, PeopleCode
+#### Databases: MySQL Server, MS Access, Oracle 11g/12c
+#### Analytics and Visualization tools: Tableau, Power BI, MS Excel (VLOOKUP, Pivot Tables, Macros), Jira, MS PowerPoint.
+#### Statistical Methods: ANOVA, Regression, T-Statistics, Hypothesis Testing
+#### Big Data Platforms: Hadoop, Hive, Impala, Spark, Flume, Hibernate Query Language, Map Reduce, Sqoop
+#### Machine Learning Algorithms: k-NN Algorithm, Linear/Logistic Regression, Decision Tree, Support Vector(SVM), Neural Networks, Random Forest, Softmax Regression, Ridge and Lasso Regression, convolutional neural networks(CNN's), recurrent neural network (RNN's), generative adversarial networks (GAN's)
+#### Cloud Technology: AWS (EMR (S3) for Hadoop), AWS (SageMaker, Lamda)
 
-
-<!--
-**newbieeashish/newbieeashish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on NLP projects
-- 🌱 I’m currently learning Deep Learning
-- 📫 How to reach me: 
-Phone: +1-682-234-5288
-E-mail: axb180093@utdallas.edu. 
+### - 🔭 I’m currently working on NLP projects
+### - 🌱 I’m currently learning Deep Learning
+### - 📫 How to reach me: 
+#### Phone: +1-682-234-5288
+#### E-mail: axb180093@utdallas.edu. 
 
 
