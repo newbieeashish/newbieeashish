@@ -14,8 +14,8 @@
 #### Machine Learning Algorithms: k-NN Algorithm, Linear/Logistic Regression, Decision Tree, Support Vector(SVM), Neural Networks, Random Forest, Softmax Regression, Ridge and Lasso Regression, convolutional neural networks(CNN's), recurrent neural network (RNN's), generative adversarial networks (GAN's)
 #### Cloud Technology: AWS (EMR (S3) for Hadoop), AWS (SageMaker, Lamda)
 
-### - 🔭 I’m currently working on NLP projects
-### - 🌱 I’m currently learning Deep Learning
+### - 🔭 I’m currently working on NLP and Computer Vision projects
+### - 🌱 I’m currently learning Deep Learning and Computer Vision
 ### - 📫 How to reach me: 
 #### Phone: +1-682-234-5288
 #### E-mail: axb180093@utdallas.edu. 
