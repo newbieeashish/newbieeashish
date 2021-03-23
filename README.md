@@ -18,6 +18,6 @@
 ### - 🌱 I’m currently learning Deep Learning and Computer Vision
 ### - 📫 How to reach me: 
 #### Phone: +1-682-234-5288
-#### E-mail: axb180093@utdallas.edu. 
+#### E-mail: bishtashish708@gmail.com 
 
 
